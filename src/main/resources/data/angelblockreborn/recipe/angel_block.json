@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": "minecraft:feather",
+    "G": "minecraft:gold_ingot",
+    "O": "minecraft:obsidian"
+  },
+  "pattern": [
+    " G ",
+    "FOF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "angelblockreborn:angel_block"
+  }
+}
